@@ -1,0 +1,2 @@
+# ZHPPDB
+Chinese paraphrase database
